@@ -1,2 +1,2 @@
-# NeuralnetworksExp1
+# NeuralnetworksExperiments
 PERCEPTRON OR GATE
